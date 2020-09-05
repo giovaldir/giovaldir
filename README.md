@@ -1,5 +1,4 @@
-|  |  |
-| --- | --- |
+
 | Professional Email | giovaldi8@gmail.com |
 | Instagram | https://www.instagram.com/giovaldirch/ |
 | LinkedIn | https://id.linkedin.com/in/giovaldi-r-00263411a |
