@@ -1,6 +1,3 @@
-
-### Contact
-
 | Contact Method |  |
 | --- | --- |
 | Professional Email | giovaldi8@gmail.com |
