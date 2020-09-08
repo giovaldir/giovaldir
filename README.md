@@ -1,4 +1,4 @@
-| Contact Method |  |
+| ABOUT |  |
 | --- | --- |
 | Professional Email | giovaldi8@gmail.com |
 | Instagram | https://www.instagram.com/giovaldirch/ |
