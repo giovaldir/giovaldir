@@ -4,11 +4,15 @@
 - 2020 Goals : Contribute more to Data Science projects
 - Fun fact : I love to sketch and play piano
 
-### Github Stats
-
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="giovaldi's Github Stats" src="https://github-readme-stats.giovaldir.vercel.app/api?username=giovaldir&show_icons=true&hide_border=true" />
+### Skills
+|  |  |
+| --- | --- |
+| Handling Missing Values & Outliers | * * * * * |
+| Data Analysis % Visualization (pandas,seaborn,matplotlib,folium,wordcloud) | * * * * |
+| Feature Selection (Heatmap,Cramers V,Theils U) | * * * * * |
+| Feature Engineering (Scaling,Transformation,Encoding,Binning,Adding Feature,PCA) | * * * * * |
+| Supervised Machine Learning (Regression & Classification ) | * * * * |
+| Unsupervised Machine Learning (Clustering) | * * * * |
 
 
 ### Languages and Tools
