@@ -2,7 +2,7 @@
 > # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
 ##### - James Dean
 
-### Data Science Skills
+## Data Science Skills
 |  | Rating |
 | --- | --- |
 | Handling Missing Values & Outliers | * * * * * |
@@ -14,7 +14,7 @@
 | Recommender System (Content-Based & Collaborative Filtering ) | * * * * * |
 
 
-### Languages
+## Languages
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -29,7 +29,7 @@
 ##### 2020 Goals : AWS, R Studio, N2 JLPT/Japanese Language Proficiency Test
 
 
-### Connect with me
+## Connect with me
 
 [<img align="left" alt="giovaldir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="giovaldir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
