@@ -41,6 +41,7 @@
 [linkedin]: https://www.linkedin.com/in/giovaldi-r-00263411a/
 
 <br />
+
 ![](https://media1.giphy.com/media/3o85xJohCZUc524lSU/giphy.gif)
 
 <!--
