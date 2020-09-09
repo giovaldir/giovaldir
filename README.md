@@ -5,7 +5,7 @@
 - Fun fact : I love to sketch and play piano
 
 ### Data Science Skills
-|  |  |
+|  | Rating |
 | --- | --- |
 | Handling Missing Values & Outliers | * * * * * |
 | Data Analysis & Visualization (pandas,seaborn,matplotlib,folium,wordcloud) | * * * * |
