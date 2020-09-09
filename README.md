@@ -1,8 +1,7 @@
 ### Hi there, I'm Giovaldi
 
-- I’m currently learning everything [Data Science,JLPT(Japanese Language Proficiency Test),Music]
-- 2020 Goals : Contribute more to Data Science projects
-- Fun fact : I love to sketch and play piano
+- I’m currently learning everything [ Data Science, JLPT(Japanese Language Proficiency Test), Music]
+- 2020 Goals : Contribute more to Data Science projects, Finish N2 JPLT
 
 ### Data Science Skills
 |  | Rating |
