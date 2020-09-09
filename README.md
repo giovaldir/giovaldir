@@ -40,6 +40,8 @@
 [instagram]: https://www.instagram.com/giovaldirch
 [linkedin]: https://www.linkedin.com/in/giovaldi-r-00263411a/
 
+![](https://media1.giphy.com/media/3o85xJohCZUc524lSU/giphy.gif)
+
 <!--
 **giovaldir/giovaldir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
