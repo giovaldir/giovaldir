@@ -1,5 +1,7 @@
-### Hi there, I'm Giovaldi
+> ***"Dream as if you'll live forever. Live as if you'll die today."***
+- James Dean
 
+<br />
 - I’m currently learning everything ( Data Science, JLPT(Japanese Language Proficiency Test), Music, AWS )
 - 2020 Goals : Contribute more to Data Science projects
 
