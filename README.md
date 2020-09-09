@@ -5,12 +5,11 @@
 - Fun fact : I love to sketch and play piano
 
 ### Github Stats
-<details>
+
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="giovaldi's Github Stats" src="https://github-readme-stats.giovaldir.vercel.app/api?username=giovaldir&show_icons=true&hide_border=true" />
 
-</details>
 
 ### Languages and Tools
 
