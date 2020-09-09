@@ -31,6 +31,9 @@
 ## Github Stats
 ![Giovaldi's github stats](https://github-readme-stats.vercel.app/api?username=giovaldir&hide=issues&show_icons=true)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaldir)](https://github.com/giovaldir/github-readme-stats)
+
 ## Connect with me
 
 [<img align="left" alt="giovaldir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
