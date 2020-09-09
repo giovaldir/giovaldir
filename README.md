@@ -28,7 +28,8 @@
 
 ###### 2020 Goals : AWS, Azure, R Studio, Other( N2 JLPT/Japanese Language Proficiency Test )
 
-![Giovaldi's github stats](https://github-readme-stats.vercel.app/api/?username=giovaldir&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+## Github Stats
+![Giovaldi's github stats](https://github-readme-stats.vercel.app/api?username=giovaldir&hide=issues&show_icons=true)
 
 ## Connect with me
 
