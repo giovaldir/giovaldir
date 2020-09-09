@@ -27,8 +27,8 @@ James Dean / Quote :
 
 <br />
 
-##### - I’m currently learning everything ( AWS, JLPT(Japanese Language Proficiency Test), Music )
-##### - 2020 Goals : Contribute more to Data Science projects
+##### - I’m currently learning everything ( AWS, R(R Studio), JLPT(Japanese Language Proficiency Test), Music )
+##### - 2020 Goals : Contribute more to Data Science projects, Community, etc.
 
 ### Connect with me
 
