@@ -1,6 +1,6 @@
 
 > # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
-#### - James Dean
+##### - James Dean
 
 ### Data Science Skills
 |  | Rating |
@@ -26,7 +26,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 
-#### 2020 Goals : AWS, R Studio, N2 JLPT/Japanese Language Proficiency Test
+##### 2020 Goals : AWS, R Studio, N2 JLPT/Japanese Language Proficiency Test
 
 
 ### Connect with me
