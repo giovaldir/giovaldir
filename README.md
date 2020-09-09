@@ -13,6 +13,8 @@
 | Unsupervised Machine Learning (Clustering ) | * * * * * |
 | Recommender System (Content-Based & Collaborative Filtering ) | * * * * * |
 
+## Github Stats
+![Giovaldi's github stats](https://github-readme-stats.vercel.app/api?username=giovaldir&hide=issues&show_icons=true)
 
 ## Languages
 
@@ -28,11 +30,6 @@
 
 ###### 2020 Goals : AWS, Azure, R Studio, Other( N2 JLPT/Japanese Language Proficiency Test )
 
-## Github Stats
-![Giovaldi's github stats](https://github-readme-stats.vercel.app/api?username=giovaldir&hide=issues&show_icons=true)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovaldir)](https://github.com/giovaldir/github-readme-stats)
 
 ## Connect with me
 
