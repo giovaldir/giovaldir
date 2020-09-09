@@ -8,7 +8,7 @@
 | Handling Missing Values & Outliers | * * * * * |
 | Data Analysis & Visualization (pandas,seaborn,matplotlib,folium,wordcloud) | * * * * |
 | Feature Selection (Heatmap,Cramers V,Theils U) | * * * * * |
-| Feature Engineering (Scaling,Transformation,Encoding,Binning,Adding Feature,PCA) | * * * * |
+| Feature Engineering (Scaling,Transformation,Encoding,Binning,Adding Feature,PCA) | * * * |
 | Supervised Machine Learning (Regression & Classification ) | * * * * |
 | Unsupervised Machine Learning (Clustering ) | * * * * * |
 | Recommender System (Content-Based & Collaborative Filtering ) | * * * * * |
