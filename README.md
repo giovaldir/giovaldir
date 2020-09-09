@@ -1,6 +1,6 @@
 ### Hi there, I'm Giovaldi
 
-- I’m currently learning everything [ Data Science, JLPT(Japanese Language Proficiency Test), Music]
+- I’m currently learning everything ( Data Science, JLPT(Japanese Language Proficiency Test), Music, AWS )
 - 2020 Goals : Contribute more to Data Science projects
 
 ### Data Science Skills
