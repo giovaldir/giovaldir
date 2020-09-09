@@ -4,22 +4,22 @@
 - 2020 Goals : Contribute more to Data Science projects
 - Fun fact : I love to sketch and play piano
 
-### Skills
+### Data Science Skills
 |  |  |
 | --- | --- |
 | Handling Missing Values & Outliers | * * * * * |
-| Data Analysis % Visualization (pandas,seaborn,matplotlib,folium,wordcloud) | * * * * |
+| Data Analysis & Visualization (pandas,seaborn,matplotlib,folium,wordcloud) | * * * * |
 | Feature Selection (Heatmap,Cramers V,Theils U) | * * * * * |
-| Feature Engineering (Scaling,Transformation,Encoding,Binning,Adding Feature,PCA) | * * * * * |
+| Feature Engineering (Scaling,Transformation,Encoding,Binning,Adding Feature,PCA) | * * * * |
 | Supervised Machine Learning (Regression & Classification ) | * * * * |
-| Unsupervised Machine Learning (Clustering) | * * * * |
+| Unsupervised Machine Learning (Clustering ) | * * * * * |
+| Recommender System (Content-Based & Collaborative Filtering ) | * * * * * |
 
 
-### Languages and Tools
+### Languages
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
