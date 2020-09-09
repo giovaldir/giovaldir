@@ -1,8 +1,16 @@
 ### Hi there, I'm Giovaldi
 
-- 🔭 I’m currently learning everything 🤣 
-- 🥅 2020 Goals: Contribute more to Data Science projects
-- ⚡ Fun fact: I love to sketch and play piano
+- I’m currently learning everything 🤣 
+- 2020 Goals : Contribute more to Data Science projects
+- Fun fact : I love to sketch and play piano
+
+### Github Stats
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="giovaldi's Github Stats" src="https://github-readme-stats.giovaldir.vercel.app/api?username=giovaldir&show_icons=true&hide_border=true" />
+
+</details>
 
 ### Languages and Tools
 
@@ -21,8 +29,6 @@
 
 [<img align="left" alt="giovaldir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="giovaldir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-</details>
 
 
 [instagram]: https://www.instagram.com/giovaldirch
