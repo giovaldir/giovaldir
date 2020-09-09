@@ -1,11 +1,5 @@
 > # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
-#### - James Dean
-
-<br />
-
-- I’m currently learning everything ( Data Science, JLPT(Japanese Language Proficiency Test), Music, AWS )
-
-- 2020 Goals : Contribute more to Data Science projects
+##### - James Dean
 
 ### Data Science Skills
 |  | Rating |
@@ -31,6 +25,10 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+
+- I’m currently learning everything ( Data Science, JLPT(Japanese Language Proficiency Test), Music, AWS )
+
+- 2020 Goals : Contribute more to Data Science projects
 
 ### Connect with me
 
