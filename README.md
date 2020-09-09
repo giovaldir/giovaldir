@@ -43,7 +43,7 @@
 <br />
 <br />
 
-![](https://media1.giphy.com/media/3o85xJohCZUc524lSU/giphy.gif)
+![](https://media.giphy.com/media/Z9QGyT1RQL00318Lzz/giphy.gif)
 
 <!--
 **giovaldir/giovaldir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
