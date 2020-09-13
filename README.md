@@ -44,8 +44,6 @@
 <br />
 <br />
 
-[![animated](https://raw.githubusercontent.com/giovaldir/REFERENCES/blob/master/video_j2oDzlBq.compressed.mp4)](https://dwe.st/rr)
-
 <!--
 **giovaldir/giovaldir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
