@@ -2,6 +2,14 @@
 > # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
 ##### - James Dean
 
+## PORTFOLIO 
+<p align="center">
+  <a href="https://github.com/giovaldir"><img src="https://github.com/giovaldir/giovaldir/blob/master/ezgif.com-video-to-gif-3.gif" alt="GiovaldiRC" width="800" height="350"></a>
+</p>
+
+###### 2020 Goals : 15 Data Science Projects
+
+
 ## LANGUAGES
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
@@ -15,13 +23,6 @@
 <br />
 
 ###### 2020 Goals : AWS, Azure, R Studio, Other( N2 JLPT/Japanese Language Proficiency Test )
-
-## PORTFOLIO 
-<p align="center">
-  <a href="https://github.com/giovaldir"><img src="https://github.com/giovaldir/giovaldir/blob/master/ezgif.com-video-to-gif-3.gif" alt="GiovaldiRC" width="800" height="350"></a>
-</p>
-
-###### 2020 Goals : 15 Data Science Projects
 
 ## DATA SCIENCE SKILLS
 |  | Rating (0-5) |
