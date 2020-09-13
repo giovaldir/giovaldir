@@ -1,5 +1,8 @@
                                                        🇲🇨 - 🇬🇧 IDN/ENG
 ## PROJECTS (JULY-SEPT 2020)
+
+###### Click for more information
+
 <p align="center">
   <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-HEART-DISEASE"><img src="https://github.com/giovaldir/giovaldir/blob/master/heart-disease-cover.jpg" alt="GiovaldiRC" width="150" height="227"></a>
   <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-NYC-TAXI-FARE"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover-page-001.jpg" alt="GiovaldiRC" width="150" height="227"></a>
@@ -8,7 +11,6 @@
   <a href="https://github.com/giovaldir/FINAL-PROJECT-TOKYO-AIRBNB"><img src="https://github.com/giovaldir/giovaldir/blob/master/airbnb-tokyo-cover-page-001.jpg" alt="GiovaldiRC" width="150" height="227"></a>
 </p>
 
-###### Click for more information
 
 ## LANGUAGES
 
@@ -51,6 +53,7 @@
 
 
 ## MUSIC
+###### Click for more information
 <p align="center">
   <a href="https://www.youtube.com/watch?v=bpOSxM0rNPM"><img src="https://media.giphy.com/media/msMmMO2pOkSGs/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
    <a href="https://www.youtube.com/watch?v=2SUwOgmvzK4"><img src="https://media.giphy.com/media/3oKIPAT50I1ss7q90Y/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
@@ -66,7 +69,6 @@
   <a href="https://www.youtube.com/watch?v=iFx-5PGLgb4"><img src="https://media.giphy.com/media/1APdR2iiJgIc8Ax5wM/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
 </p>
 
-###### Click for more information
 
 
 <br />
