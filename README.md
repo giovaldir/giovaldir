@@ -53,7 +53,7 @@
 [linkedin]: https://www.linkedin.com/in/giovaldi-r-00263411a/
 
 <br />
-![](demo.gif)
+![](https://media.giphy.com/media/zBo4lj5kcx0Jy/giphy.gif)
 <br />
 
 <!--
