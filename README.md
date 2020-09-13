@@ -1,6 +1,6 @@
 
-> # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
-##### - James Dean
+> # ***"虎穴に入らずんば虎子を得ず。"*** 
+
 
 ## Portfolio 
 <p align="center">
