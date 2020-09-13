@@ -36,10 +36,14 @@
 ## STATS
 ![Giovaldi's github stats](https://github-readme-stats.vercel.app/api?username=giovaldir&hide=issues&show_icons=true)
 
-## NEWEST PROJECTS 
+## ALL PROJECTS (JULY-SEPT 2020)
 <p
-  <a href="https://github.com/giovaldir"><img src="https://github.com/giovaldir/giovaldir/blob/master/airbnb-tokyo-cover.pdf" alt="GiovaldiRC" width="210" height="297"></a>
-  <a href="https://github.com/giovaldir"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover.pdf" alt="GiovaldiRC" width="210" height="297"></a>
+  <a href="https://github.com/giovaldir/FINAL-PROJECT-TOKYO-AIRBNB"><img src="https://github.com/giovaldir/giovaldir/blob/master/airbnb-tokyo-cover.pdf" alt="GiovaldiRC" width="210" height="297"></a>
+  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-HEART-DISEASE"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover.pdf" alt="GiovaldiRC" width="210" height="297"></a>
+  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-NYC-TAXI-FARE"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover.pdf" alt="GiovaldiRC" width="210" height="297"></a>
+  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-LOYALTY-MEMBERS"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover.pdf" alt="GiovaldiRC" width="210" height="297"></a>
+  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-CONSUMER-COMPLAINTS"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover.pdf" alt="GiovaldiRC" width="210" height="297"></a>
+  
 </p>
 
 ## MUSIC
