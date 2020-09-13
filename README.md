@@ -62,6 +62,7 @@
   <a href="https://www.youtube.com/watch?v=08Ndzf5-HxI"><img src="https://media.giphy.com/media/l0K4juwy8VdN5Q9TW/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
 </p>
 
+###### Click for more information
 
 
 
