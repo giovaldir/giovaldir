@@ -52,11 +52,14 @@
 > # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
 ##### - James Dean
 
+## PURWADHIKA'S ACCOUNT
+
+https://github.com/giovaldir1
+
 ## CONNECT WITH ME
 
 [<img align="left" alt="giovaldir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="giovaldir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 
 [instagram]: https://www.instagram.com/giovaldirch
 [linkedin]: https://www.linkedin.com/in/giovaldi-r-00263411a/
