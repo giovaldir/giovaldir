@@ -42,7 +42,7 @@
   <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-HEART-DISEASE"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover.pdf" alt="GiovaldiRC" width="210" height="297"></a>
   <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-NYC-TAXI-FARE"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover.pdf" alt="GiovaldiRC" width="210" height="297"></a>
   <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-LOYALTY-MEMBERS"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover.pdf" alt="GiovaldiRC" width="210" height="297"></a>
-  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-CONSUMER-COMPLAINTS"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover.pdf" alt="GiovaldiRC" width="210" height="297"></a>
+  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-CONSUMER-COMPLAINTS"><img src="https://github.com/giovaldir/giovaldir/blob/master/consumer-complaints-cover_page-0001.jpg" alt="GiovaldiRC" width="210" height="297"></a>
   
 </p>
 
