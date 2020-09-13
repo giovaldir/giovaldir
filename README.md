@@ -56,8 +56,9 @@
 <br />
 <br />
 <br />
-## ARCTIC MONKEYS FAN
+
 <p align="center">
+  <h3>Arctic Monkeys Fan</h3>
   <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/zBo4lj5kcx0Jy/giphy.gif" alt="GiovaldiRC"></a>
 </p>
 <br />
