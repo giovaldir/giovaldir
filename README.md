@@ -47,7 +47,7 @@
 </p>
 
 ## MUSIC
-<p
+<p align="center">
   <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/msMmMO2pOkSGs/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
   <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/3o85xG6L0squZzTlhS/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
   <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/NPSBznfytOtCo/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
