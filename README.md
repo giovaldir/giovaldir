@@ -37,13 +37,12 @@
 ![Giovaldi's github stats](https://github-readme-stats.vercel.app/api?username=giovaldir&hide=issues&show_icons=true)
 
 ## PROJECTS (JULY-SEPT 2020)
-<p
-  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-HEART-DISEASE"><img src="" alt="GiovaldiRC" width="0" height="0"></a>
-  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-HEART-DISEASE"><img src="https://github.com/giovaldir/giovaldir/blob/master/heart-disease-cover.jpg" alt="GiovaldiRC" width="210" height="297"></a>
-  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-NYC-TAXI-FARE"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover-page-001.jpg" alt="GiovaldiRC" width="210" height="297"></a>
-  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-LOYALTY-MEMBERS"><img src="https://github.com/giovaldir/giovaldir/blob/master/loyalty-members-cover.jpg" alt="GiovaldiRC" width="210" height="297"></a>
-  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-CONSUMER-COMPLAINTS"><img src="https://github.com/giovaldir/giovaldir/blob/master/consumer-complaints-cover_page-0001.jpg" alt="GiovaldiRC" width="210" height="297"></a>
-  <a href="https://github.com/giovaldir/FINAL-PROJECT-TOKYO-AIRBNB"><img src="https://github.com/giovaldir/giovaldir/blob/master/airbnb-tokyo-cover-page-001.jpg" alt="GiovaldiRC" width="210" height="297"></a>
+<p align="center">
+  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-HEART-DISEASE"><img src="https://github.com/giovaldir/giovaldir/blob/master/heart-disease-cover.jpg" alt="GiovaldiRC" width="190" height="277"></a>
+  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-NYC-TAXI-FARE"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover-page-001.jpg" alt="GiovaldiRC" width="190" height="277"></a>
+  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-LOYALTY-MEMBERS"><img src="https://github.com/giovaldir/giovaldir/blob/master/loyalty-members-cover.jpg" alt="GiovaldiRC" width="190" height="277"></a>
+  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-CONSUMER-COMPLAINTS"><img src="https://github.com/giovaldir/giovaldir/blob/master/consumer-complaints-cover_page-0001.jpg" alt="GiovaldiRC" width="190" height="277"></a>
+  <a href="https://github.com/giovaldir/FINAL-PROJECT-TOKYO-AIRBNB"><img src="https://github.com/giovaldir/giovaldir/blob/master/airbnb-tokyo-cover-page-001.jpg" alt="GiovaldiRC" width="190" height="277"></a>
   
 </p>
 
