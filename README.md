@@ -59,7 +59,7 @@
   <a href="https://www.youtube.com/watch?v=hjpF8ukSrvk"><img src="https://media.giphy.com/media/NPSBznfytOtCo/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
   <a href="https://www.youtube.com/watch?v=87xa7w2QymA"><img src="https://media.giphy.com/media/3ohzdS7EMHQBto9rfq/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
   <a href="https://www.youtube.com/watch?v=NV-3s2wwC8c"><img src="https://media.giphy.com/media/K4919W2BvyrV6/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
-  <a href="https://www.youtube.com/watch?v=N5EnGwXV_Pg"><img src="https://media.giphy.com/media/l0K4juwy8VdN5Q9TW/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
+  <a href="https://www.youtube.com/watch?v=08Ndzf5-HxI"><img src="https://media.giphy.com/media/l0K4juwy8VdN5Q9TW/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
 </p>
 
 
