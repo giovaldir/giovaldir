@@ -8,7 +8,7 @@
 </p>
 
 ## DATA SCIENCE SKILLS
-|  | Rating |
+|  | Rating (0-5) |
 | --- | --- |
 | Handling Missing Values & Outliers | * * * * * |
 | Data Analysis & Visualization (pandas,seaborn,matplotlib,folium,wordcloud) | * * * * |
