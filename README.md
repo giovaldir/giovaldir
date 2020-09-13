@@ -2,7 +2,7 @@
 > # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
 ##### - James Dean
 
-<img alt="GiovaldiRC" src="ezgif.com-video-to-gif.gif"> </img>
+<img alt="" src="ezgif.com-video-to-gif.gif"> </img>
 
 ## Data Science Skills
 |  | Rating |
