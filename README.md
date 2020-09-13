@@ -18,7 +18,7 @@
 | Unsupervised Machine Learning (Clustering) | * * * * |
 | Recommender System (Content-Based & Collaborative Filtering) | * * * * * |
 | Structured Query Language (DDL & DML) | * * * * |
-<br />
+
 ###### 2020 Goals : Natural Language Processing
 
 ## STATS
