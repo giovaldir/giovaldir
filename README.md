@@ -38,12 +38,12 @@
 
 ## MUSIC
 <p
-  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/msMmMO2pOkSGs/giphy.gif" alt="GiovaldiRC"></a>
-  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/3o85xG6L0squZzTlhS/giphy.gif" alt="GiovaldiRC"></a>
-  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/NPSBznfytOtCo/giphy.gif" alt="GiovaldiRC"></a>
-  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/l3mZ2Is34s0O9BOBq/giphy.gif" alt="GiovaldiRC"></a>
-  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/8lKxX48wbDz27Bt1Zq/giphy.gif" alt="GiovaldiRC"></a>
-  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/3oKIPAT50I1ss7q90Y/giphy.gif" alt="GiovaldiRC"></a>
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/msMmMO2pOkSGs/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/3o85xG6L0squZzTlhS/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/NPSBznfytOtCo/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/l3mZ2Is34s0O9BOBq/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/8lKxX48wbDz27Bt1Zq/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/3oKIPAT50I1ss7q90Y/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
 </p>
 
 ## CONNECT WITH ME
