@@ -2,12 +2,12 @@
 > # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
 ##### - James Dean
 
-## Portfolio 
+## PORTFOLIO 
 <p align="center">
   <a href="https://github.com/giovaldir"><img src="https://github.com/giovaldir/giovaldir/blob/master/ezgif.com-video-to-gif-3.gif" alt="GiovaldiRC"></a>
 </p>
 
-## Data Science Skills
+## DATA SCIENCE SKILLS
 |  | Rating |
 | --- | --- |
 | Handling Missing Values & Outliers | * * * * * |
@@ -19,10 +19,10 @@
 | Recommender System (Content-Based & Collaborative Filtering) | * * * * * |
 | Structured Query Language (DDL & DML) | * * * * |
 
-## Stats
+## STATS
 ![Giovaldi's github stats](https://github-readme-stats.vercel.app/api?username=giovaldir&hide=issues&show_icons=true)
 
-## Languages
+## LANGUAGES
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -36,14 +36,14 @@
 
 ###### 2020 Goals : AWS, Azure, R Studio, Other( N2 JLPT/Japanese Language Proficiency Test )
 
-## Spotify
+## SPOTIFY
 <p align="center">
    <h3>GiovaldiRC's</h3>
    <img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="500" />
 <p align="center">
 
 
-## Connect with me
+## CONNECT WITH ME
 
 [<img align="left" alt="giovaldir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="giovaldir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
