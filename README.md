@@ -44,7 +44,10 @@
   <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/l3mZ2Is34s0O9BOBq/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
   <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/8lKxX48wbDz27Bt1Zq/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
   <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/3oKIPAT50I1ss7q90Y/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/ITuFb81NvO0XS/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/l0K4juwy8VdN5Q9TW/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
 </p>
+
 
 ## CONNECT WITH ME
 
