@@ -65,6 +65,7 @@
 ###### Click for more information
 
 
+<br />
 
 > # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
 ##### - James Dean
