@@ -57,8 +57,8 @@
 <br />
 <br />
 
-<p align="center">
-  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/zBo4lj5kcx0Jy/giphy.gif" alt="GiovaldiRC"></a>
+<p
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/msMmMO2pOkSGs/giphy.gif" alt="GiovaldiRC"></a>
 </p>
 <br />
 
