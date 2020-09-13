@@ -48,15 +48,16 @@
 [<img align="left" alt="giovaldir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="giovaldir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[instagram]: https://www.instagram.com/giovaldirch
-[linkedin]: https://www.linkedin.com/in/giovaldi-r-00263411a/
-
 <br />
 ## ARCTIC MONKEYS FAN
 <p align="center">
   <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/zBo4lj5kcx0Jy/giphy.gif" alt="GiovaldiRC"></a>
 </p>
+<br />
+[instagram]: https://www.instagram.com/giovaldirch
+[linkedin]: https://www.linkedin.com/in/giovaldi-r-00263411a/
+
+
 <br />
 <br />
 
