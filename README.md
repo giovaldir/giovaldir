@@ -52,8 +52,9 @@
 [instagram]: https://www.instagram.com/giovaldirch
 [linkedin]: https://www.linkedin.com/in/giovaldi-r-00263411a/
 
-
-<p
+<br />
+## ARCTIC MONKEYS FAN
+<p align="center">
   <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/zBo4lj5kcx0Jy/giphy.gif" alt="GiovaldiRC"></a>
 </p>
 <br />
