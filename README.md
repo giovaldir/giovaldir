@@ -1,6 +1,6 @@
 
-> # ***"虎穴に入らずんば虎子を得ず。"*** 
-#### “If you do not enter the tiger’s cave, you will not catch its cub.”
+> # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
+#### James Dean
 
 ## Portfolio 
 <p align="center">
