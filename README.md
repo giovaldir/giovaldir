@@ -1,6 +1,6 @@
 
 > # ***"虎穴に入らずんば虎子を得ず。"*** 
-
+#### “If you do not enter the tiger’s cave, you will not catch its cub.”
 
 ## Portfolio 
 <p align="center">
