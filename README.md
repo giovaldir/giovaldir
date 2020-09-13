@@ -36,8 +36,9 @@
 
 ###### 2020 Goals : AWS, Azure, R Studio, Other( N2 JLPT/Japanese Language Proficiency Test )
 
+## Spotify
 <p align="center">
-   <h3>Spotify</h3>
+   <h3>GRC</h3>
    <img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="500" />
 <p align="center">
 
