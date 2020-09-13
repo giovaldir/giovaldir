@@ -18,6 +18,8 @@
 | Unsupervised Machine Learning (Clustering) | * * * * |
 | Recommender System (Content-Based & Collaborative Filtering) | * * * * * |
 | Structured Query Language (DDL & DML) | * * * * |
+<br />
+###### 2020 Goals : Natural Language Processing
 
 ## STATS
 ![Giovaldi's github stats](https://github-readme-stats.vercel.app/api?username=giovaldir&hide=issues&show_icons=true)
