@@ -60,6 +60,10 @@
   <a href="https://www.youtube.com/watch?v=87xa7w2QymA"><img src="https://media.giphy.com/media/3ohzdS7EMHQBto9rfq/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
   <a href="https://www.youtube.com/watch?v=NV-3s2wwC8c"><img src="https://media.giphy.com/media/K4919W2BvyrV6/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
   <a href="https://www.youtube.com/watch?v=08Ndzf5-HxI"><img src="https://media.giphy.com/media/l0K4juwy8VdN5Q9TW/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
+  <a href="https://www.youtube.com/watch?v=O2IuJPh6h_A"><img src="https://media.giphy.com/media/L2xqjKATeV39SCgBzu/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
+  <a href="https://www.youtube.com/watch?v=Edwsf-8F3sI"><img src="https://media.giphy.com/media/pVHtzDD6xbMo9pNVqB/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
+  <a href="https://www.youtube.com/watch?v=XpqqjU7u5Yc"><img src="https://media.giphy.com/media/ADSs70Bsuv8qfw8FyE/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
+  <a href="https://www.youtube.com/watch?v=iFx-5PGLgb4"><img src="https://media.giphy.com/media/1APdR2iiJgIc8Ax5wM/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
 </p>
 
 ###### Click for more information
