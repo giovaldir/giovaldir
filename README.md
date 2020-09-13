@@ -36,6 +36,12 @@
 
 ###### 2020 Goals : AWS, Azure, R Studio, Other( N2 JLPT/Japanese Language Proficiency Test )
 
+## ARCTIC MONKEYS FAN
+<p
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/msMmMO2pOkSGs/giphy.gif" alt="GiovaldiRC"></a>
+</p>
+
+
 ## SPOTIFY
 <p align="center">
    <h3>GiovaldiRC's</h3>
@@ -54,13 +60,6 @@
 
 
 <br />
-<br />
-<br />
-
-## ARCTIC MONKEYS FAN
-<p
-  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/msMmMO2pOkSGs/giphy.gif" alt="GiovaldiRC"></a>
-</p>
 <br />
 
 <!--
