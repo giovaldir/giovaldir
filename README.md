@@ -1,6 +1,6 @@
 
 > # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
-#### James Dean
+##### - James Dean
 
 ## Portfolio 
 <p align="center">
