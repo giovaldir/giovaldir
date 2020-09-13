@@ -36,6 +36,12 @@
 ## STATS
 ![Giovaldi's github stats](https://github-readme-stats.vercel.app/api?username=giovaldir&hide=issues&show_icons=true)
 
+## NEWEST PROJECTS 
+<p
+  <a href="https://github.com/giovaldir"><img src="https://github.com/giovaldir/giovaldir/blob/master/airbnb-tokyo-cover.pdf" alt="GiovaldiRC" width="210" height="297"></a>
+  <a href="https://github.com/giovaldir"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover.pdf" alt="GiovaldiRC" width="210" height="297"></a>
+</p>
+
 ## MUSIC
 <p
   <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/msMmMO2pOkSGs/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
