@@ -1,5 +1,4 @@
                                                           🇲🇨 - 🇬🇧
-<br />
 
 ## PROJECTS (JULY-SEPT 2020)
 <p align="center">
