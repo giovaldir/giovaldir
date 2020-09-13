@@ -48,11 +48,12 @@
 [<img align="left" alt="giovaldir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="giovaldir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-![](https://media.giphy.com/media/zBo4lj5kcx0Jy/giphy.gif)
+
 [instagram]: https://www.instagram.com/giovaldirch
 [linkedin]: https://www.linkedin.com/in/giovaldi-r-00263411a/
 
 <br />
+![](demo.gif)
 <br />
 
 <!--
