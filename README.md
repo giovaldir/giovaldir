@@ -1,14 +1,9 @@
-
-> # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
-##### - James Dean
-
 ## PORTFOLIO 
 <p align="center">
   <a href="https://github.com/giovaldir"><img src="https://github.com/giovaldir/giovaldir/blob/master/ezgif.com-video-to-gif-3.gif" alt="GiovaldiRC" width="800" height="350"></a>
 </p>
 
 ###### 2020 Goals : 15 Data Science Projects
-
 
 ## LANGUAGES
 
@@ -53,6 +48,9 @@
   <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/l0K4juwy8VdN5Q9TW/giphy.gif" alt="GiovaldiRC" width="200" height="200"></a>
 </p>
 
+
+> # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
+##### - James Dean
 
 ## CONNECT WITH ME
 
