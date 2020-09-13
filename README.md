@@ -21,6 +21,8 @@
   <a href="https://github.com/giovaldir"><img src="https://github.com/giovaldir/giovaldir/blob/master/ezgif.com-video-to-gif-3.gif" alt="GiovaldiRC" width="800" height="350"></a>
 </p>
 
+###### 2020 Goals : 15 Data Science Projects )
+
 ## DATA SCIENCE SKILLS
 |  | Rating (0-5) |
 | --- | --- |
