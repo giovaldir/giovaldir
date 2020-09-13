@@ -4,7 +4,7 @@
 
 ## PORTFOLIO 
 <p align="center">
-  <a href="https://github.com/giovaldir"><img src="https://github.com/giovaldir/giovaldir/blob/master/ezgif.com-video-to-gif-3.gif" alt="GiovaldiRC"></a>
+  <a href="https://github.com/giovaldir"><img src="https://github.com/giovaldir/giovaldir/blob/master/ezgif.com-video-to-gif-3.gif" alt="GiovaldiRC" width="500" height="600"></a>
 </p>
 
 ## DATA SCIENCE SKILLS
