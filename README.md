@@ -36,18 +36,15 @@
 
 ###### 2020 Goals : AWS, Azure, R Studio, Other( N2 JLPT/Japanese Language Proficiency Test )
 
-## ARCTIC MONKEYS FAN
+## MUSIC
 <p
   <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/msMmMO2pOkSGs/giphy.gif" alt="GiovaldiRC"></a>
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/3o85xG6L0squZzTlhS/giphy.gif" alt="GiovaldiRC"></a>
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/NPSBznfytOtCo/giphy.gif" alt="GiovaldiRC"></a>
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/l3mZ2Is34s0O9BOBq/giphy.gif" alt="GiovaldiRC"></a>
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/8lKxX48wbDz27Bt1Zq/giphy.gif" alt="GiovaldiRC"></a>
+  <a href="https://github.com/giovaldir"><img src="https://media.giphy.com/media/3oKIPAT50I1ss7q90Y/giphy.gif" alt="GiovaldiRC"></a>
 </p>
-
-
-## SPOTIFY
-<p align="center">
-   <h3>GiovaldiRC's</h3>
-   <img src="https://spotify-status.vercel.app/api/run-spotify-status" alt="s4nx Playing Now" width="500" />
-<p align="center">
-
 
 ## CONNECT WITH ME
 
