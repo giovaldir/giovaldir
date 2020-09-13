@@ -1,5 +1,4 @@
                                                           🇲🇨 - 🇬🇧
-
 ## PROJECTS (JULY-SEPT 2020)
 <p align="center">
   <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-HEART-DISEASE"><img src="https://github.com/giovaldir/giovaldir/blob/master/heart-disease-cover.jpg" alt="GiovaldiRC" width="150" height="227"></a>
