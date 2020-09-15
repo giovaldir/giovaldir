@@ -1,5 +1,5 @@
                                                        🇲🇨 - 🇬🇧 IDN/ENG
-## PROJECTS (JULY-SEPT 2020)
+## PROJECTS (AUGUST-SEPT 2020)
 
 ###### Click for more information
 
