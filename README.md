@@ -45,7 +45,7 @@
 | Recommender System (Content-Based & Collaborative Filtering) | * * * * * |
 | Structured Query Language (DDL & DML) | * * * * |
 
-###### 2020 Goals : Natural Language Processing
+###### 2020 Goals : Deep Learning
 
 ## STATS
 
