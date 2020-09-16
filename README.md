@@ -49,7 +49,9 @@ Click for more information
 
 ## STATS
 
+<p align="center">
 ![Giovaldi's github stats](https://github-readme-stats.vercel.app/api?username=giovaldir&hide=issues&show_icons=true)
+</p>
 <p align="center">
 Click for more information
 </p>
@@ -85,7 +87,6 @@ Click for more information
 https://github.com/giovaldir1
 
 ## CONNECT WITH ME
-<p align="center">
 
 [<img align="center" alt="giovaldir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="giovaldir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -93,10 +94,12 @@ https://github.com/giovaldir1
 [instagram]: https://www.instagram.com/giovaldirch
 [linkedin]: https://www.linkedin.com/in/giovaldi-r-00263411a/
 
-</p>
 <br />
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+<p align="center">
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giovaldir.FINAL-PROJECT-TOKYO-AIRBNB)
+</p>
+
 
 <br />
 <br />
