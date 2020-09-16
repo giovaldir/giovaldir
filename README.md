@@ -85,6 +85,7 @@ Click for more information
 https://github.com/giovaldir1
 
 ## CONNECT WITH ME
+<p align="center">
 
 [<img align="center" alt="giovaldir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="giovaldir | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -92,6 +93,8 @@ https://github.com/giovaldir1
 [instagram]: https://www.instagram.com/giovaldirch
 [linkedin]: https://www.linkedin.com/in/giovaldi-r-00263411a/
 
+</p>
+<br />
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
 
