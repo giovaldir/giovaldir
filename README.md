@@ -94,12 +94,6 @@ https://github.com/giovaldir1
 [instagram]: https://www.instagram.com/giovaldirch
 [linkedin]: https://www.linkedin.com/in/giovaldi-r-00263411a/
 
-<br />
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
-
-
 
 <br />
 <br />
