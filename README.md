@@ -49,9 +49,9 @@ Click for more information
 
 ## STATS
 
-<p align="center">
+
 ![Giovaldi's github stats](https://github-readme-stats.vercel.app/api?username=giovaldir&hide=issues&show_icons=true)
-</p>
+
 <p align="center">
 Click for more information
 </p>
