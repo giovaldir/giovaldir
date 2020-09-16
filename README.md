@@ -96,9 +96,9 @@ https://github.com/giovaldir1
 
 <br />
 
-<p align="center">
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=giovaldir.FINAL-PROJECT-TOKYO-AIRBNB)
-</p>
+
 
 
 <br />
