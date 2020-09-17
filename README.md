@@ -46,6 +46,7 @@ Click for more information
 | Supervised Machine Learning (Regression & Classification) | * * * * |
 | Unsupervised Machine Learning (Clustering) | * * * * |
 | Recommender System (Content-Based & Collaborative Filtering) | * * * * * |
+| Deploying ML model (Flask) | * * * * * |
 | Structured Query Language (DDL & DML) | * * * * |
 
 ###### 2020 Goals : Deep Learning
@@ -86,8 +87,8 @@ Click for more information
 ##### - James Dean
 
 ## 2ND ACCOUNT
+<a href="https://github.com/giovaldir1"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GiovaldiRC" width="26px"></a>
 
-https://github.com/giovaldir1
 
 ## CONNECT WITH ME
 
