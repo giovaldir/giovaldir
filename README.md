@@ -89,6 +89,13 @@ Click for more information
 ## 2ND ACCOUNT
 <a href="https://github.com/giovaldir1"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GiovaldiRC" width="26px"></a>
 
+## REFERENCES
+
+Purwadhika Digital Technology School [link](https://purwadhika.com/)
+EDX [link](https://www.edx.org/)
+Pedro Domingos (author of "The Master Algorithm" book) [link](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine-ebook/dp/B012271YB2)
+Ken Jee (Data Science Expert) [link](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
+Krish Naik (Data Science Expert) [link](https://www.youtube.com/user/krishnaik06/featured)
 
 ## CONNECT WITH ME
 
