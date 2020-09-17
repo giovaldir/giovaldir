@@ -91,11 +91,11 @@ Click for more information
 
 ## REFERENCES
 
-Purwadhika Digital Technology School [link](https://purwadhika.com/)
-EDX [link](https://www.edx.org/)
-Pedro Domingos (author of "The Master Algorithm" book) [link](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine-ebook/dp/B012271YB2)
-Ken Jee (Data Science Expert) [link](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
-Krish Naik (Data Science Expert) [link](https://www.youtube.com/user/krishnaik06/featured)
+- Purwadhika Digital Technology School [link](https://purwadhika.com/)
+- EDX [link](https://www.edx.org/)
+- Pedro Domingos (author of "The Master Algorithm" book) [link](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine-ebook/dp/B012271YB2)
+- Ken Jee (Data Science Expert) [link](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
+- Krish Naik (Data Science Expert) [link](https://www.youtube.com/user/krishnaik06/featured)
 
 ## CONNECT WITH ME
 
