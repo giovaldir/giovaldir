@@ -7,6 +7,7 @@
   <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-LOYALTY-MEMBERS"><img src="https://github.com/giovaldir/giovaldir/blob/master/loyalty-members-cover.jpg" alt="GiovaldiRC" width="150" height="227"></a>
   <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-CONSUMER-COMPLAINTS"><img src="https://github.com/giovaldir/giovaldir/blob/master/consumer-complaints-cover_page-0001.jpg" alt="GiovaldiRC" width="150" height="227"></a>
   <a href="https://github.com/giovaldir/FINAL-PROJECT-TOKYO-AIRBNB"><img src="https://github.com/giovaldir/giovaldir/blob/master/airbnb-tokyo-cover-page-001.jpg" alt="GiovaldiRC" width="150" height="227"></a>
+  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-PURWADHIKA-IMAGE-RECOGNITION"><img src="https://github.com/giovaldir/giovaldir/blob/master/machinery-recognition-cover.jpg" alt="GiovaldiRC" width="150" height="227"></a>
 </p>
 <p align="center">
 Click for more information
