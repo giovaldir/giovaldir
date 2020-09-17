@@ -2,6 +2,7 @@
 ## PROJECTS (AUGUST-SEPT 2020)
 
 <p align="center">
+  <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-HOUSE-EXAM-2"><img src="https://github.com/giovaldir/giovaldir/blob/master/house-eda-cover.jpg" alt="GiovaldiRC" width="150" height="227"></a>
   <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-HEART-DISEASE"><img src="https://github.com/giovaldir/giovaldir/blob/master/heart-disease-cover.jpg" alt="GiovaldiRC" width="150" height="227"></a>
   <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-NYC-TAXI-FARE"><img src="https://github.com/giovaldir/giovaldir/blob/master/taxi-fare-cover-page-001.jpg" alt="GiovaldiRC" width="150" height="227"></a>
   <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-LOYALTY-MEMBERS"><img src="https://github.com/giovaldir/giovaldir/blob/master/loyalty-members-cover.jpg" alt="GiovaldiRC" width="150" height="227"></a>
@@ -12,6 +13,7 @@
 <p align="center">
 Click for more information
 </p>
+
 
 ## LANGUAGES
 
