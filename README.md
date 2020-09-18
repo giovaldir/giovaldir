@@ -129,8 +129,8 @@ Click for more information
 ## CONNECT WITH ME
 
 <p align="center">
-  <a href="https://www.instagram.com/giovaldirch"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="GiovaldiRC" width="150" height="227"></a>
-  <a href="https://www.linkedin.com/in/giovaldi-r-00263411a"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="GiovaldiRC" width="150" height="227"></a>
+  <a href="https://www.instagram.com/giovaldirch"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="GiovaldiRC" width="26px"></a>
+  <a href="https://www.linkedin.com/in/giovaldi-r-00263411a"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="GiovaldiRC" width="26px"></a>
 </p>
 
 <br />
