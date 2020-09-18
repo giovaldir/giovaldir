@@ -15,6 +15,12 @@ Click for more information
 </p>
 
 
+Latest Project progress
+
+```text
+NLP     1 d 1 hrs 12 mins  ███████████████████░░  87.1%
+```
+
 ## LANGUAGES
 
   <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
@@ -28,6 +34,16 @@ Click for more information
 <br />
 
 ###### 2020 Goals : AWS, Azure, R Studio, Other( N2 JLPT/Japanese Language Proficiency Test )
+
+Latest Language progress
+
+```text
+AWS         8 hrs 54 mins  ████░░░░░░░░░░░░░░░░░  27.2%
+Azure       1 hrs 11 mins  █░░░░░░░░░░░░░░░░░░░░   5.3%
+R Studio   10 hrs 18 mins  ██████░░░░░░░░░░░░░░░  35.2%
+Other       1 hrs 55 mins  █░░░░░░░░░░░░░░░░░░░░   6.8%
+```
+
 
 ## PORTFOLIO 
 <p align="center">
@@ -50,6 +66,10 @@ Click for more information
 | Structured Query Language (DDL & DML) | * * * * |
 
 ###### 2020 Goals : Deep Learning
+
+```text
+NLP     1 d 1 hrs 12 mins  ███████████████████░░  87.1%
+```
 
 ## STATS
 
@@ -80,7 +100,6 @@ Click for more information
 Click for more information
 </p>
 
-
 <br />
 
 > # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
@@ -109,6 +128,7 @@ Click for more information
 <br />
 <br />
 
+<a href="https://github.com/blackcater" alt="https://github.com/blackcater"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=GIOVALDIRCHANIAGO&color=000000"></a>
 <!--
 **giovaldir/giovaldir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
