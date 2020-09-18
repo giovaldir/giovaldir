@@ -120,7 +120,7 @@ Click for more information
 - Krish Naik (Data Science Expert) [link](https://www.youtube.com/user/krishnaik06/featured)
 
 
-                                                       CONNECT WITH ME
+                                                      CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.instagram.com/giovaldirch"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="GiovaldiRC" width="26px"></a>
