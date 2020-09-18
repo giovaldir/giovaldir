@@ -1,7 +1,7 @@
                                                        🇲🇨 - 🇬🇧 IDN/ENG
 
 ```text
-                                                           /MacOS
+                                                          /MacOS
 ```
 
 ## PROJECTS (AUGUST-SEPT 2020)
