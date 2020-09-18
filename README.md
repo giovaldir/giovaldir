@@ -111,9 +111,6 @@ Click for more information
 > # ***"Dream as if you'll live forever. Live as if you'll die today."*** 
 ##### - James Dean
 
-## 2ND ACCOUNT
-<a href="https://github.com/giovaldir1"><img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GiovaldiRC" width="26px"></a>
-
 ## LEARNING RESOURCES
 
 - Purwadhika Digital Technology School [link](https://purwadhika.com/)
@@ -122,7 +119,7 @@ Click for more information
 - Ken Jee (Data Science Expert) [link](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
 - Krish Naik (Data Science Expert) [link](https://www.youtube.com/user/krishnaik06/featured)
 
-## ORGANIZATIONS
+## ORG
 
 <img align="left" alt="Purwadhika" width="26px" src="https://github.com/giovaldir/giovaldir/blob/master/1*p6gBVv8njUf6Ua-wi2Ituw.jpeg" />
 <img align="left" alt="Bandung.py" width="26px" src="https://github.com/giovaldir/giovaldir/blob/master/id-python-logo_400x400.png" />
