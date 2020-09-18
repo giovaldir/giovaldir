@@ -1,4 +1,5 @@
                                                        🇲🇨 - 🇬🇧 IDN/ENG
+Operating System
 ```text
 /MacOS
 ```
