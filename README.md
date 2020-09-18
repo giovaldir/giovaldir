@@ -126,6 +126,11 @@ Click for more information
 - Ken Jee (Data Science Expert) [link](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
 - Krish Naik (Data Science Expert) [link](https://www.youtube.com/user/krishnaik06/featured)
 
+## ORGANIZATIONS
+
+<img align="left" alt="Purwadhika" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
+<img align="left" alt="Bandung.py" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
+
 ## CONNECT WITH ME
 
 [<img align="center" alt="giovaldir | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
