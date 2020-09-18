@@ -45,7 +45,7 @@ NLP     1 d 1 hrs 12 mins  █████████████████�
 
 ###### 2020 Goals : AWS, Azure, R Studio, Other( N2 JLPT/Japanese Language Proficiency Test )
 
-Latest Language progress
+Learning progress
 
 ```text
 AWS         8 hrs 54 mins  ████░░░░░░░░░░░░░░░░░  27.2%
@@ -76,6 +76,8 @@ Other       1 hrs 55 mins  █░░░░░░░░░░░░░░░░�
 | Structured Query Language (DDL & DML) | * * * * |
 
 ###### 2020 Goals : Deep Learning
+
+Learning progress
 
 ```text
 NLP     1 d 1 hrs 12 mins  ███████████████████░░  87.1%
