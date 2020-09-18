@@ -141,7 +141,10 @@ Click for more information
 <br />
 <br />
 
-<a href="https://github.com/giovaldir" alt="https://github.com/giovaldir"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=GIOVALDIRCHANIAGO&color=000000"></a>
+<p align="center">
+  <a href="https://github.com/giovaldir" alt="https://github.com/giovaldir"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=GIOVALDIRCHANIAGO&color=000000"></a>
+</p>
+
 <!--
 **giovaldir/giovaldir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
