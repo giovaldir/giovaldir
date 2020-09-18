@@ -1,4 +1,13 @@
                                                        🇲🇨 - 🇬🇧 IDN/ENG
+
+Operating System
+
+```text
+macOS                      █████████████████████   100.0%
+Windows                    ██████████████████░░░    85.8%
+Linux                      █░░░░░░░░░░░░░░░░░░░░     5.3%
+```
+
 ## PROJECTS (AUGUST-SEPT 2020)
 
 <p align="center">
@@ -31,6 +40,7 @@ NLP     1 d 1 hrs 12 mins  █████████████████�
   <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+  <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <br />
 
 ###### 2020 Goals : AWS, Azure, R Studio, Other( N2 JLPT/Japanese Language Proficiency Test )
