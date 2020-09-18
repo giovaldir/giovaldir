@@ -128,8 +128,9 @@ Click for more information
 
 ## ORGANIZATIONS
 
-<img align="left" alt="Purwadhika" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
-<img align="left" alt="Bandung.py" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
+<img align="left" alt="Purwadhika" width="26px" src="https://github.com/giovaldir/giovaldir/blob/master/1*p6gBVv8njUf6Ua-wi2Ituw.jpeg" />
+<img align="left" alt="Bandung.py" width="26px" src="https://github.com/giovaldir/giovaldir/blob/master/id-python-logo_400x400.png" />
+
 
 ## CONNECT WITH ME
 
