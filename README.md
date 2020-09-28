@@ -81,14 +81,6 @@ Learning progress
 NLP     1 d 1 hrs 12 mins  ███████████████████░░  87.1%
 ```
 
-## STATS
-
-
-![Giovaldi's github stats](https://github-readme-stats.vercel.app/api?username=giovaldir&hide=issues&show_icons=true)
-
-<p align="center">
-Click for more information
-</p>
 
                                                       RECENTLY PLAYED
 
