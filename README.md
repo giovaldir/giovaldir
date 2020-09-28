@@ -118,7 +118,7 @@ Click for more information
 <br />
 
 <p align="center">
-  <a href="https://github.com/giovaldir" alt="https://github.com/giovaldir"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=©2020GiovaldiRC%20&message=AllRightReserved&color=000000"></a>
+  <a href="https://github.com/giovaldir" alt="https://github.com/giovaldir"><img src="https://img.shields.io/static/v1?style=for-the-badge&label= ©2020GiovaldiRC%20&message=AllRightReserved&color=000000"></a>
 </p>
 
 <!--
