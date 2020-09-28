@@ -55,7 +55,7 @@ Other       1 hrs 55 mins  █░░░░░░░░░░░░░░░░�
 
 ## PORTFOLIO 
 <p align="center">
-  <a href="https://github.com/giovaldir"><img src="https://github.com/giovaldir/giovaldir/blob/master/ezgif.com-video-to-gif-3.gif" alt="GiovaldiRC" width="800" height="350"></a>
+  <a href="https://giovaldir.github.io"><img src="https://github.com/giovaldir/giovaldir/blob/master/ezgif.com-video-to-gif-3.gif" alt="GiovaldiRC" width="800" height="350"></a>
 </p>
 
 ###### 2020 Goals : 15 Data Science Projects
