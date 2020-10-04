@@ -121,6 +121,8 @@ Click for more information
   <a href="https://github.com/giovaldir" alt="https://github.com/giovaldir"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=2020GiovaldiRC%20&message=AllRightsReserved&color=000000"></a>
 </p>
 
+[COVID-19 Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
+
 <!--
 **giovaldir/giovaldir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
