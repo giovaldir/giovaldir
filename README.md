@@ -23,12 +23,6 @@ Click for more information
 </p>
 
 
-Latest Project progress
-
-```text
-NLP     1 d 1 hrs 12 mins  ███████████████████░░  87.1%
-```
-
 ## LANGUAGES
 
   <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
