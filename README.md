@@ -7,7 +7,7 @@
 ```
 
 [COVID-19 Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
-## PROJECTS (AUGUST-SEPT 2020)
+## PROJECTS
 
 <p align="center">
   <a href="https://github.com/giovaldir/DATA-SCIENCE-PROJECT-HOUSE-EXAM-2"><img src="https://github.com/giovaldir/giovaldir/blob/master/house-eda-cover.jpg" alt="GiovaldiRC" width="150" height="227"></a>
@@ -23,7 +23,7 @@ Click for more information
 </p>
 
 
-## LANGUAGES
+## PROGRAMMING LANGUAGES
 
   <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/rhoit/mode-icons/dump/icons/python.png" />
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -36,8 +36,6 @@ Click for more information
   <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <br />
 
-###### 2020 Goals : AWS, Azure, R Studio, Other( N2 JLPT/Japanese Language Proficiency Test )
-
 Learning progress
 
 ```text
@@ -47,13 +45,10 @@ R Studio   10 hrs 18 mins  ██████░░░░░░░░░░░�
 Other       1 hrs 55 mins  █░░░░░░░░░░░░░░░░░░░░   6.8%
 ```
 
-
 ## PORTFOLIO 
 <p align="center">
   <a href="https://giovaldir.github.io"><img src="https://github.com/giovaldir/giovaldir/blob/master/ezgif.com-video-to-gif-3.gif" alt="GiovaldiRC" width="800" height="350"></a>
 </p>
-
-###### 2020 Goals : 15 Data Science Projects
 
 ## DATA SCIENCE SKILLS
 |  | Rating (0-5) |
@@ -67,14 +62,6 @@ Other       1 hrs 55 mins  █░░░░░░░░░░░░░░░░�
 | Recommender System (Content-Based & Collaborative Filtering) | * * * * * |
 | Deploying ML model (Flask) | * * * * * |
 | Structured Query Language (DDL & DML) | * * * * |
-
-###### 2020 Goals : Deep Learning
-
-Learning progress
-
-```text
-NLP     1 d 1 hrs 12 mins  ███████████████████░░  87.1%
-```
 
 
                                                       RECENTLY PLAYED
