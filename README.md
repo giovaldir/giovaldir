@@ -50,19 +50,6 @@ Other       1 hrs 55 mins  █░░░░░░░░░░░░░░░░�
   <a href="https://giovaldir.github.io"><img src="https://github.com/giovaldir/giovaldir/blob/master/ezgif.com-video-to-gif-3.gif" alt="GiovaldiRC" width="800" height="350"></a>
 </p>
 
-## DATA SCIENCE SKILLS
-|  | Rating (0-5) |
-| --- | --- |
-| Handling Missing Values & Outliers | * * * * * |
-| Data Analysis & Visualization (pandas,seaborn,matplotlib,folium,wordcloud) | * * * * |
-| Feature Selection (Heatmap,Cramers V,Theils U) | * * * * * |
-| Feature Engineering (Scaling,Transformation,Encoding,Binning,Adding Feature,PCA) | * * * |
-| Supervised Machine Learning (Regression & Classification) | * * * * |
-| Unsupervised Machine Learning (Clustering) | * * * * |
-| Recommender System (Content-Based & Collaborative Filtering) | * * * * * |
-| Deploying ML model (Flask) | * * * * * |
-| Structured Query Language (DDL & DML) | * * * * |
-
 
                                                       RECENTLY PLAYED
 
