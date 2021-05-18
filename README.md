@@ -42,6 +42,7 @@ Learning progress
 AWS         8 hrs 54 mins  ████░░░░░░░░░░░░░░░░░  27.2%
 Azure       1 hrs 11 mins  █░░░░░░░░░░░░░░░░░░░░   5.3%
 R Studio   10 hrs 18 mins  ██████░░░░░░░░░░░░░░░  35.2%
+Uipath     26 hrs 19 mins  ██████████░░░░░░░░░░░  47.9%
 Other       1 hrs 55 mins  █░░░░░░░░░░░░░░░░░░░░   6.8%
 ```
 
